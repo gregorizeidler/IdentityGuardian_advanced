@@ -1,0 +1,16 @@
+numpy==1.26.3
+opencv-python==4.8.0.76
+streamlit==1.31.0
+dlib==19.24.2
+pdf2image==1.16.3
+pytesseract==0.3.10
+python-dotenv==1.0.0
+Pillow==10.0.0
+scikit-image==0.22.0 
+matplotlib==3.8.2
+
+# Novas dependências para análises avançadas
+# Comentadas para instalação opcional
+# torch==2.1.0
+# torchvision==0.16.0
+# intel-extension-for-pytorch  # Para o modelo MiDaS
